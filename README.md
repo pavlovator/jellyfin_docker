@@ -27,3 +27,5 @@ mkdir Movies
 mkdir "Movie Title (2021)"
 cp "Movie Title (2021).mkv" .
 ```
+
+In client: Dashboard -> press "Scan All Libraries" to add the media.
